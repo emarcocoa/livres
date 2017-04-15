@@ -1,2 +1,2 @@
 # livres
-Fiches de lecture
+Fiches et résumés de livres lus.
